@@ -1,0 +1,1 @@
+Hello, my name  is Denis Ballgjini, and I've chosen to do a website as my final project in the CS50. The website will contain a big construction firm, with the best construction works and house transformations you can find, based in London. The website will contain some of the firm's best jobs and some information about the firm, and even a contact way to get to our firm!
